@@ -9,8 +9,7 @@
 
 ### Usage
 ```
-make
-./cache
+make && ./cache
 ```
 ```
 Usage: ./cache [-l] [-f]  
