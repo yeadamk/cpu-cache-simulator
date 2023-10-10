@@ -9,6 +9,10 @@
 
 ### Usage
 ```
+make
+./cache
+```
+```
 Usage: ./cache [-l] [-f]  
   -l: Displays all occupied cache lines (file mode only)  
   -f: Input file
