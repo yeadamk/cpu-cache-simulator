@@ -8,6 +8,8 @@
 > The 'sample' file provides 11 hex address values which should output a total of 3,471 cycles.
 
 ### Usage
-Usage: ./cache [-l] [-f]
-  -l: Displays all occupied cache lines (file mode only)
+```
+Usage: ./cache [-l] [-f]  
+  -l: Displays all occupied cache lines (file mode only)  
   -f: Input file
+```
